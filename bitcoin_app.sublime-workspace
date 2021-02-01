@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"reci",
+				"recipe"
+			],
+			[
+				"recipe",
+				"recipeIngredientsItem"
+			],
+			[
+				"It",
+				"recipeIngredientsItem"
+			],
+			[
+				"recip",
+				"recipeIngredientsWeight"
+			],
+			[
+				"recipeIngre",
+				"recipeIngredientsList"
+			],
+			[
+				"content",
+				"contentType"
+			],
+			[
+				"result",
+				"resultElement"
+			],
+			[
+				"our",
+				"ourData"
+			],
+			[
+				"get_templ",
+				"get_template_directory_uri"
+			],
+			[
+				"address",
+				"address_component"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 123,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "index.html"
+			}
+		},
+		{
+			"file": "assets/script.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "script.js"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Freelance/Bitcoin Price App",
+		"/C/Freelance/Bitcoin Price App/assets"
+	],
+	"file_history":
+	[
+		"/C/Freelance/Bitcoin Price App/assets/style.css",
+		"/C/Users/chahn/Downloads/max_sum_refactored.js",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/chahn/Downloads/original.js",
+		"/M/employees/christopher hahn/Dev/Shopify/Mad-Dev/madsections/sections/cart-template.liquid",
+		"/M/employees/christopher hahn/Dev/Shopify/Mad-Dev/madsections/assets/theme.scss.liquid",
+		"/X/Employees/Christopher Hahn/MO-stylesheet.css",
+		"/C/Shopify/STD/test.html",
+		"/C/Freelance/test.html",
+		"/C/Users/chahn/Local Sites/whydrate/app/public/wp-content/themes/saasland-child/footer.php",
+		"/C/Users/chahn/Local Sites/whydrate/app/public/wp-content/themes/saasland/header.php",
+		"/C/Users/chahn/Local Sites/whydrate/app/public/wp-content/themes/saasland/footer.php",
+		"/C/Users/chahn/Local Sites/whydrate/app/public/wp-content/themes/saasland/index.php",
+		"/C/Freelance/themeforest-23362980-saasland-creative-wordpress-theme-for-saas-business/SaasLand_WP_Jul_16_2019/Documentation/online-doc.html",
+		"/C/Users/chahn/Local Sites/whydrate/app/public/wp-config.php",
+		"/C/Users/chahn/Local Sites/whydrate/app/public/wp-content/plugins/saasland-core/saasland-core.php",
+		"/C/Users/chahn/Local Sites/apitest/app/public/wp-content/themes/twentynineteen/header.php",
+		"/C/Users/chahn/Local Sites/apitest/app/public/wp-content/themes/twentynineteen/style.css",
+		"/C/Users/chahn/Local Sites/apitest/app/public/wp-content/themes/twentynineteen/js/main.js",
+		"/C/Users/chahn/Local Sites/apitest/app/public/wp-content/themes/twentynineteen/page-api.php",
+		"/C/Users/chahn/Local Sites/apitest/app/public/wp-content/themes/twentynineteen/functions.php",
+		"/C/Users/chahn/OneDrive/Desktop/test.html",
+		"/C/Users/chahn/OneDrive/Documents/GitHub/MrHahn.github.io/index.html",
+		"/C/Users/chahn/OneDrive/Documents/GitHub/MrHahn.github.io/styles.css",
+		"/C/Users/chahn/OneDrive/Documents/GitHub/MrHahn.github.io/script.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "script.js",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bitcoin_app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
