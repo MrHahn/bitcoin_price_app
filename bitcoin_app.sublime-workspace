@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"getBitcoinPrice"
+			],
+			[
 				"create",
 				"createElement"
 			],
@@ -55,7 +59,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 123,
+				"buffer_size": 1043,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "index.html"
@@ -65,10 +69,19 @@
 			"file": "assets/script.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 2277,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "script.js"
+			}
+		},
+		{
+			"file": "assets/style.css",
+			"settings":
+			{
+				"buffer_size": 24,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -193,15 +206,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 123,
+						"buffer_size": 1043,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								107,
-								107
+								889,
+								889
 							]
 						],
 						"settings":
@@ -223,15 +236,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 2277,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2275,
+								2275
 							]
 						],
 						"settings":
@@ -241,10 +254,41 @@
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 920.8,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>repl.it</title>
+    <title>Bitcoin Notification</title>
     <link href="assets/style.css" rel="stylesheet" type="text/css" />
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
     <script type="text/javascript"
@@ -17,10 +17,12 @@
   </head>
   <body>
 		<h1>Bitcoin Current Price is: <span id="price"></span> USD</h1>
-
-		<button>Refresh Data</button>
-
-		
+		<label for="low-limit">Low Limit</label>
+		<input type="text" name="low-limit" value="" id="lowLimit">
+		<label for="high-limit">High Limit</label>
+		<input type="text" name="high-limit" value="" id="highLimit">
+		<button class="submit-btn">Save Values</button>
+		<button class="reset-btn">Clear Values</button>
     <script src="assets/script.js"></script>
   </body>
 </html>
